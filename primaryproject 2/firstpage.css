@@ -1,0 +1,197 @@
+ body  {
+    background-image: url(images/pexels-raqeeb-ahmed-5838446.jpg);
+    background-size:cover;
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    animation: animatedBackground 5s linear infinite alternate-reverse ;
+    margin: 0;
+    padding: 0; 
+    
+}
+
+.heading{
+  margin-left: 600px;
+}
+
+.container{
+  padding: 20px;
+}
+
+.last-img{
+  object-fit: cover;
+}
+.middle{
+  padding: 10px;
+}
+@keyframes animatedBackground {
+    from {
+      background-position: 0 0;
+    }
+    to {
+      background-position:  10% 25%;
+    }
+   }
+  .grid{
+     display: grid;
+     color: rgb(17, 17, 17);
+     background-color: transparent;
+     width: 1400px; 
+     position: relative;
+     /* margin: 0 auto; */
+     left: 60px;
+     background-image:url()
+  }
+  .box{
+    padding: 20px;
+  }
+#a,#b,#c,#d{
+  background-color: rgba(245, 34, 34, 0.495);
+  width: 210px;
+  color: #f8f8f8;
+  height: 50px;
+  padding: 10px;
+  margin: 30px 0px 0px 10px;
+  border-color: #faf8f8;
+  
+}
+#d:hover{
+  color: azure;
+  background-color: rgb(196, 8, 64);
+  box-shadow: 0 22px 16px 0 rgba(187, 13, 56, 0.24),0 22px 50px 0 rgba(243, 241, 241, 0.19);
+  cursor:pointer;
+  box-shadow: inset;
+}
+#a:hover{
+  color: azure;
+  background-color: rgb(196, 8, 64);
+  cursor:pointer;
+  box-shadow: 0 22px 16px 0 rgba(187, 13, 56, 0.24),0 17px 50px 0 rgba(243, 241, 241, 0.19);
+}
+#b:hover{
+  color: azure;
+  background-color: rgb(196, 8, 64);
+  cursor:pointer;
+  box-shadow: 0 22px 16px 0 rgba(187, 13, 56, 0.24),0 17px 50px 0 rgba(243, 241, 241, 0.19);
+}
+#c:hover{
+  color: azure;
+  cursor:pointer;
+  background-color: rgb(196, 8, 64);
+  box-shadow: 0 22px 16px 0 rgba(187, 13, 56, 0.24),0 17px 50px 0 rgba(243, 241, 241, 0.19);
+}
+#head1{
+  /* width: 900px; */
+  /* font-family: 'Amatic SC', cursive; */
+  padding-top: 20px;
+  font-size: 40px;
+  height: 60px;
+  width: 100%;
+  /* margin-left: 190px; */
+  background-color: rgba(3, 11, 37, 0.785);
+  color: #f8f8f8;
+  text-align: center;
+  position: relative;
+  /* background-color: rgba(195, 31, 99, 0.735); */
+  top: 0%;
+  /* font-family: 'Koulen', cursive; */
+/* font-family: 'Tourney', cursive; */
+
+  /* margin: 0%; */
+  /* font-family: 'Rampart One', cursive; */
+}
+#hr1{
+  width: 700px;
+  height: 20px;
+  background-color: rgb(230, 13, 78);
+}
+.logo,.intro{
+  display: flex;
+  flex-direction: row;
+} 
+#mar{
+   
+   width: 1000px;
+   font-size: 22px;
+   font-family: 'Dancing Script', cursive;
+   color: rgb(38, 5, 5);
+}
+
+#pic1{
+  margin-top: 55px;
+  margin-left: 150px;
+}
+/* .container{
+  display: flex;
+  flex-direction: row;
+} */
+#table1  {
+  background-color: rgba(3, 1, 24, 0.735);
+  border: solid;
+  border-color: aliceblue;
+  width: 900px;
+  padding: 30px;
+  position: relative;
+  margin-left: 250px;
+  top: 50px;
+  
+}
+
+#image1{
+  margin-left: 30px;
+}
+.img2{
+
+  padding-left: 100px;
+}
+/* #c4{
+  font-family: 'Kalam', cursive;
+  padding-top: 60px;
+  color: #faf8f8;
+  padding-left: 30px; */
+/* } */
+#table2{
+  background-color: rgba(202, 19, 65, 0.735);
+  border: solid;
+  margin-top: 110px;
+  border-color: aliceblue;
+  width: 900px;
+  padding: 30px;
+  position: relative;
+  /* top: 900px; */
+}
+#table3{
+  background-color: rgba(5, 3, 49, 0.735);
+  border: solid;
+  margin-top: 80px;
+  border-color: aliceblue;
+  width: 900px;
+  padding: 30px;
+  position: absolute;
+  right: 30px;
+  top: 1200px;
+}
+.aura{
+  position: relative;
+  top: 50px;
+  color: #f8f8f8;
+  background-color: rgba(189, 103, 103, 0.459);
+  
+}
+.table4{
+  position: relative;
+  top: 500px;
+  /* background-color: rgba(221, 88, 99, 0.459); */
+  
+}
+#last{
+  top: 490px;
+  position: relative;
+  background-color: #f8f8f8;
+  /* height: 100px; */
+}
+.divi{
+  padding-top: 36px;
+  margin-left: 110px;
+  
+}

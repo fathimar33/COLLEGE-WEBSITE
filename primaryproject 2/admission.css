@@ -1,0 +1,43 @@
+body{
+   background-image: url(images/bg.png) ;
+   /* background-repeat: no-repeat; */
+   /* background-size: cover; */
+
+}
+h1{
+    background-color: rgba(5, 3, 49);
+    color: #faf8f8;
+    height: 60px;
+    text-align: center;
+    padding-top: 30px;
+    width: 800px;
+    margin-left: 330px;
+}
+#a:hover{
+    color: azure;
+    background-color: rgb(4, 8, 66);
+    cursor:pointer;
+    box-shadow: 0 22px 16px 0 rgba(30, 16, 72, 0.24),0 17px 50px 0 rgba(243, 241, 241, 0.19);
+  }
+  #b:hover{
+    color: azure;
+    background-color: rgb(4, 8, 66);
+    cursor:pointer;
+    box-shadow: 0 22px 16px 0 rgba(26, 13, 77, 0.24),0 17px 50px 0 rgba(243, 241, 241, 0.19);
+  }
+  #c:hover{
+    color: azure;
+    cursor:pointer;
+    background-color:  rgb(4, 8, 66);
+    box-shadow: 0 22px 16px 0 rgba(16, 13, 61, 0.24),0 17px 50px 0 rgba(243, 241, 241, 0.19);
+  }
+  #a,#b,#c{
+    background-color: rgb(15, 15, 15,0.495);
+    width: 650px;
+    color: #0c0c0c;
+    height: 60px;
+    padding: 20px;
+    margin: 20px;
+    border-color: #faf8f8;
+    margin-left: 400px;
+  }

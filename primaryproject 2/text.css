@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    /* background-image: url(images/pexels-raqeeb-ahmed-5838446.jpg); */
+    background-color: rgb(165, 51, 51,0.495);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  header {
+    text-align: center;
+    margin-bottom: 50px;
+    
+  }
+  
+  section {
+    width: 50%;
+    float: left;
+    margin-bottom: 50px;
+    color: beige;
+    background-color: rgba(3, 1, 24, 0.735);
+    border: solid;
+    width: 800px;
+    border-color: aliceblue;
+    padding: 10PX;
+    margin-top: 20px;
+  }
+
+  
+    h1{color: rgb(252, 252, 252);
+        background-color:rgba(32, 13, 77, 0.495);
+
+    
+      }
+      .head1{
+       
+        position: relative;
+        /* background-color: rgb(165, 51, 51,0.195); */
+        /* margin-left: 300px; */
+      }

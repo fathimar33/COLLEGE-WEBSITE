@@ -1,0 +1,36 @@
+h1{
+    color:rgb(248, 246, 246);
+    background-color: rgba(14, 4, 68, 0.495);
+   
+}
+body{
+    font-size: 17px;
+    font-weight: 900;
+    color: rgb(4, 4, 54);
+    /* background-image: url(images/bg.png); */
+}
+td{
+    color: rgb(6, 7, 66);
+}
+#a:hover{
+    color: rgb(251, 251, 252);
+    background-color: rgb(12, 2, 56);
+    cursor:pointer;
+    box-shadow: 0 22px 16px 0 rgba(2, 3, 46, 0.24),0 17px 50px 0 rgba(243, 241, 241, 0.19);
+    /* border-color: rgb(248, 242, 242); */
+  }
+  #a{
+    background-color:rgba(6, 12, 39, 0.473);
+    width: 250px;
+    color: #fdfcff;
+    height: 60px;
+    padding: 20px;
+    margin: 20px;
+    border-color: transparent;
+    margin-left: 50px;
+  }
+  input{
+    background-color: rgba(6, 12, 39, 0.473);
+    color: #fdfcff;
+    border-color: transparent;
+  }

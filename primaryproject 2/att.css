@@ -1,0 +1,33 @@
+
+.container {
+  width: 600px;
+  margin: 0 auto;
+  text-align: left;
+  /* margin-top: 90px; */
+  background-color: rgba(92, 88, 90, 0.495);
+  border: white solid;
+  padding: 50px;
+}
+.profile {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+.profile img {
+  width: 200px;
+  height: 200px;
+  border-radius: 0%;
+}
+h1
+{
+    color: rgb(6, 6, 46);
+    text-align: center;
+    /* margin-left: 300px; */
+}
+.container label{
+    color: #1b0404;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+/* .data{
+    padding: 10px;
+} */

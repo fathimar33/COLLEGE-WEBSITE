@@ -1,0 +1,40 @@
+body{
+    background-image: url(images/YouTube\ Thumbnail.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1
+{
+    text-align: center;
+    background-color: rgba(1, 1, 29, 0.495);
+    width: 800px;
+    margin-top: 50px;
+    margin-left: 50px;
+    color: beige;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    padding: 50px;
+    margin: 50px;
+}
+h3{
+    padding: 50px;
+    width: 200px;
+    border: rgb(70, 67, 67) solid;
+    box-shadow: 5px 5px rgb(160, 157, 157);
+    margin-right: 30px;
+    color: rgb(216, 216, 224);
+}
+h3:hover{
+    color: beige;
+    background-color: rgb(148, 148, 170);
+}
+a{
+    color: rgb(7, 7, 24);
+    text-decoration: none;
+    
+}
+a:hover{
+    color: #faf5f5;
+}
